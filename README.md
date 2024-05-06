@@ -1,8 +1,8 @@
 # AirBnB Clone - The Console
 
-![Server and Client side](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png)
+# Airbnb clone --- The Console ⛈ ⛈ ⛈
 
-
+![AIRBNB](https://airbtics.com/wp-content/uploads/2022/09/Reno1-768x432.png)
 
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -159,8 +159,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Rubeluchukwuisi Chidubem kingsley - [Github](https://github.com/chidubemkingsley) / [Twitter](twitter.com/kingsleyCaesar1)
 
-Second part of Airbnb: JACKSON MUTURI[GITHUB](https://github.com/Mwangi-jack)
+Rubeluchukwuisi chidubem kingsley - [Github](https://github.com/Chidubemkingsley) / [Twitter](https://twitter.com/KingsleyCaesar1)  
+
+
 ## License
 Public Domain. No copy write protection. 
